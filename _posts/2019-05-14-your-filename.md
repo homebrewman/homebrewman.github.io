@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ''
+title: 'Unicode, Python and Encoder'
 ---
 ## A New Post
 
