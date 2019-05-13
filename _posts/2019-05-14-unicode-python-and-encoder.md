@@ -9,6 +9,7 @@ comments: true
 ## Problems of Encoder in MeCab and Japanese
 
 Today, I have received a crazy requirement from my boss: separate the Japanese contents in parentheses, translate them and insert them back in correct positions.
+{: style="text-align: justify;"}
 
 Basically, this requirement is not so difficult, just 40 minutes to draft a scheme to satisfy it. However, it took me 4 hours to debug why my program is incorrect for many tests. And what I found is crazy also - Mecab and Unicode Encoder.
 
