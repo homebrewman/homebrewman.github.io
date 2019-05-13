@@ -124,7 +124,7 @@ url-pretty: "www.google.com" #"MyWebsite.com"  # eg. "deanattali.com/beautiful-j
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: "homebrewman.disqus.com"
 # If you want to use just-comments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
 
