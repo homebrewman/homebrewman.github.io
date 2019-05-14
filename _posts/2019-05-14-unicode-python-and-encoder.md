@@ -12,8 +12,10 @@ Today, I have received a crazy requirement from my boss: separate the Japanese c
 {: style="text-align: justify;"}
 
 Basically, this requirement is not so difficult, just 40 minutes to draft a scheme to satisfy it. However, it took me 4 hours to debug why my program is incorrect for many tests. And what I found is crazy also - Mecab and Unicode Encoder.
+{: style="text-align: justify;"}
 
 Some of you may ask what [Mecab](https://taku910.github.io/mecab) is and why we have to care about [Unicode Encoder](https://unicode.org/faq/normalization.html). Therefore, I will present a little thing about them.
+{: style="text-align: justify;"}
 
 First, [Mecab](https://taku910.github.io/mecab) is a tool for segmenting text to assist Natural Language Processing applications for specific purpose. To be more specific, just make an imagination that you are making a command (in Japanese) for your robot. Your robot will initial convert your voice command into text and using some tool (such as Mecab) for separate parts of this text to recognize what your purpose is, what the object in your command is, etc. 
 {: style="text-align: justify;"}
