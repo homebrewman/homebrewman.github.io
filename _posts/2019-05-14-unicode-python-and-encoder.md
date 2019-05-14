@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unicode, Python and Encoder
-subtitle: Each post also has a subtitle
+subtitle: Just an error of Mecab for processing Japanese
 #gh-badge: [star, fork, follow]
 tags: [Bug, IT, Unicode, NLP ]
 comments: true
