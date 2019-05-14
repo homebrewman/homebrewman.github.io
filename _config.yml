@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Test
+title: Homie
 
 # Short description of your site
 description: Funny place
@@ -36,7 +36,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/homie.jpg"
 
 # --- Background colour/image options --- #
 
@@ -99,7 +99,7 @@ social-network-links:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.google.com" #"MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.google.com" 
 
 # --- Web Statistics Section --- #
 
